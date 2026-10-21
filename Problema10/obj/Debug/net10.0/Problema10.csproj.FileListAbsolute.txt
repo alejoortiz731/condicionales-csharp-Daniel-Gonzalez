@@ -1,0 +1,14 @@
+C:\Users\ortiz\OneDrive\Escritorio\condicionales-csharp-Daniel-Gonzalez\Problema10\bin\Debug\net10.0\Problema10.exe
+C:\Users\ortiz\OneDrive\Escritorio\condicionales-csharp-Daniel-Gonzalez\Problema10\bin\Debug\net10.0\Problema10.deps.json
+C:\Users\ortiz\OneDrive\Escritorio\condicionales-csharp-Daniel-Gonzalez\Problema10\bin\Debug\net10.0\Problema10.runtimeconfig.json
+C:\Users\ortiz\OneDrive\Escritorio\condicionales-csharp-Daniel-Gonzalez\Problema10\bin\Debug\net10.0\Problema10.dll
+C:\Users\ortiz\OneDrive\Escritorio\condicionales-csharp-Daniel-Gonzalez\Problema10\bin\Debug\net10.0\Problema10.pdb
+C:\Users\ortiz\OneDrive\Escritorio\condicionales-csharp-Daniel-Gonzalez\Problema10\obj\Debug\net10.0\Problema10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ortiz\OneDrive\Escritorio\condicionales-csharp-Daniel-Gonzalez\Problema10\obj\Debug\net10.0\Problema10.AssemblyInfoInputs.cache
+C:\Users\ortiz\OneDrive\Escritorio\condicionales-csharp-Daniel-Gonzalez\Problema10\obj\Debug\net10.0\Problema10.AssemblyInfo.cs
+C:\Users\ortiz\OneDrive\Escritorio\condicionales-csharp-Daniel-Gonzalez\Problema10\obj\Debug\net10.0\Problema10.csproj.CoreCompileInputs.cache
+C:\Users\ortiz\OneDrive\Escritorio\condicionales-csharp-Daniel-Gonzalez\Problema10\obj\Debug\net10.0\Problema10.dll
+C:\Users\ortiz\OneDrive\Escritorio\condicionales-csharp-Daniel-Gonzalez\Problema10\obj\Debug\net10.0\refint\Problema10.dll
+C:\Users\ortiz\OneDrive\Escritorio\condicionales-csharp-Daniel-Gonzalez\Problema10\obj\Debug\net10.0\Problema10.pdb
+C:\Users\ortiz\OneDrive\Escritorio\condicionales-csharp-Daniel-Gonzalez\Problema10\obj\Debug\net10.0\Problema10.genruntimeconfig.cache
+C:\Users\ortiz\OneDrive\Escritorio\condicionales-csharp-Daniel-Gonzalez\Problema10\obj\Debug\net10.0\ref\Problema10.dll
