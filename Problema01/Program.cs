@@ -1,6 +1,6 @@
 ﻿using System;
 
-int edad = 17; // Puedes cambiar el valor para probar
+int edad = 18; 
 
 if (edad >= 16)
 {
